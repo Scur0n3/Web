@@ -3,16 +3,6 @@
   --primary2: #7b57b2;
   --blanco: #ffffff;
 
-
-
-
-
-
-
-  --oscuro: #212121;
-  --primario: #ffc107;
-  --secundario: #0097a7;
-  --gris: #757575;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -218,6 +208,11 @@ a:focus {
 }
 
 /*end header section*/
+
+
+
+
+
 /* slider section */
 .slider_section {
   -webkit-box-flex: 1;
