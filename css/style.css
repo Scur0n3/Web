@@ -1,11 +1,24 @@
 :root {
-  --primary: #4b208c;
+  /* --primary: #4b208c;
   --primary2: #7b57b2;
   --primary3: #5625a1;
   --oscuro: #190734;
   --huerfano1: #2e0e5f;
   --huerfano2: #512a97;
+  --blanco: #ffffff; */
+
+
+
+
+
+  --primary: #9b2213;
+  --primary2: #af2d19;
+  --primary3: #88170d;
+  --oscuro: #600000;
+  --huerfano1: #b20c05;
+  --huerfano2: #740b06;
   --blanco: #ffffff;
+
 
 }
 
